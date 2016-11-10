@@ -1,2 +1,2 @@
 # cpama
-C Programming: A Modern Approach, Second Edition
+C Programming: A Modern Approach, Second Edition.
